@@ -20,6 +20,9 @@ li a {
     padding: 16px;
     text-decoration: none;
 }
+li a:hover{
+    transition: all 0.5s ease-in-out;
+    background-color: rgb(29, 36, 43);
 h1,h3{
     color:rgb(169, 188, 204)
 }
