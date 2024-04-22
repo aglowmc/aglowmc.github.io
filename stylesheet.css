@@ -12,6 +12,14 @@ ul{
 li{
     float: left;
 }
+li a {
+    font-size: large;
+    color:aliceblue;
+    display: block;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
 h1,h3{
     color:rgb(169, 188, 204)
 }
